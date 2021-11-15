@@ -22,7 +22,9 @@ dependencies {
 
 	//Spring boot Starter
 //	implementation("org.springframework.boot:spring-boot-starter")
-//	implementation("org.jetbrains.kotlin:kotlin-reflect")
+
+	//Kotlin dependencies
+//	implementation("org.jetbrains.kotlin:kotlin-reflect") //Not call Bean1::constructor
 //	implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
 }
 
